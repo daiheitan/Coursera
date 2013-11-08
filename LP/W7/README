@@ -1,0 +1,7 @@
+The python script contains some unknown bugs and could pass part 5.
+
+I'm giving up. It must be something with float decimal or so.
+
+Remember to use the lib Decimal when you need accurate with floats.
+
+This script also fixes some bugs of the script of W4
